@@ -3,7 +3,7 @@ entries:
   app-demo-k8s:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-01T21:41:04.684568+07:00"
+    created: "2023-06-01T21:51:02.897667+07:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -16,6 +16,6 @@ entries:
     name: app-demo-k8s
     type: application
     urls:
-    - https://github.com/nhutvl504/mycharts/blob/release/0.1.0/app-demo-k8s-0.1.0.tgz
+    - https://nhutvl504.github.io/mycharts/app-demo-k8s-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-01T21:41:04.675847+07:00"
+generated: "2023-06-01T21:51:02.887365+07:00"
