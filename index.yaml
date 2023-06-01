@@ -3,7 +3,7 @@ entries:
   app-demo-k8s:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-01T21:30:09.904855+07:00"
+    created: "2023-06-01T21:41:04.684568+07:00"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -12,10 +12,10 @@ entries:
       repository: https://charts.bitnami.com/bitnami
       version: 9.10.1
     description: A Helm chart for Kubernetes for NhutLM1 usage
-    digest: ee35c1c8f065eb310e91a573720d71cd76cfd261144f062850d056b8040a4aca
+    digest: 184bf59bcac15b6d6d7ec9ff0282cf17b544b6de110833549e6123a34cac7c16
     name: app-demo-k8s
     type: application
     urls:
     - https://github.com/nhutvl504/mycharts/app-demo-k8s-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-01T21:30:09.892923+07:00"
+generated: "2023-06-01T21:41:04.675847+07:00"
