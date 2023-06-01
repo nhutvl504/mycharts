@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  app-demo-k8s:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-01T21:23:43.102291+07:00"
+    dependencies:
+    - name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 17.11.3
+    - name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.10.1
+    description: A Helm chart for Kubernetes for NhutLM1 usage
+    digest: ee35c1c8f065eb310e91a573720d71cd76cfd261144f062850d056b8040a4aca
+    name: app-demo-k8s
+    type: application
+    urls:
+    - app-demo-k8s-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-01T21:23:43.09319+07:00"
