@@ -16,6 +16,6 @@ entries:
     name: app-demo-k8s
     type: application
     urls:
-    - https://github.com/nhutvl504/mycharts/app-demo-k8s-0.1.0.tgz
+    - https://github.com/nhutvl504/mycharts/blob/release/0.1.0/app-demo-k8s-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-01T21:41:04.675847+07:00"
